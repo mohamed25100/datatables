@@ -1,8 +1,8 @@
 # datatables
 
-|titre|
-|-|
-|[install](https://datatables.net/manual/installation)|
+|titre|action|
+|-|-|
+|datatable|[install](https://datatables.net/manual/installation)|
 
 
 # dev
